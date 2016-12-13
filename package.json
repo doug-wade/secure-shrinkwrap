@@ -1,0 +1,12 @@
+{
+  "name": "secure-shrinkwrap",
+  "version": "0.0.1",
+  "description": "Makes your shrinkwrap securer",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Doug Wade <douglas.b.wade@gmail.com>",
+  "license": "MIT"
+}
